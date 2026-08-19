@@ -3,6 +3,5 @@
   "version": "1.0.0",
   "private": true,
   "description": "Brandtex Trading filename-driven fashion sourcing website",
-  "main": "server.js",
   "scripts": { "start": "node server.js" }
 }
